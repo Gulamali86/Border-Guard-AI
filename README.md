@@ -33,11 +33,7 @@ Attack Labels: Data categorized into "Normal" and "Attack" states across 6 stage
 Geospatial Data: Simulated Latitude and Longitude coordinates for mapping high-risk zones.
 
 💻 Installation & Usage
-Clone the Repository:
 
-Bash
-git clone https://github.com/Gulamali86/BorderGuard-AI
-cd BorderGuard-AI
 Install Dependencies:
 
 Bash
