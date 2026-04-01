@@ -36,7 +36,7 @@ Geospatial Data: Simulated Latitude and Longitude coordinates for mapping high-r
 Clone the Repository:
 
 Bash
-git clone https://github.com/Gulamali86/BorderGuard-AI.git
+git clone https://github.com/Gulamali86/BorderGuard-AI
 cd BorderGuard-AI
 Install Dependencies:
 
